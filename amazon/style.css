@@ -1,0 +1,266 @@
+body {
+  background-color: #eaeded;
+}
+ .cardarancione {
+    background: #f56600;
+    text-align: center;
+    color: white;
+
+    font-size: 10px;
+  }
+
+  .cardarancione h1 {
+    font-size: 10px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    text-align: center;
+  }
+
+  .boxfoto {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 10px;
+  }
+
+  .boxfoto img {
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+    width: 250px;
+    height: 300px;
+    border-radius: 15px;
+  }
+
+  .boxfoto p {
+    display: row;
+    padding-left: 5px;
+    padding-top: 1px;
+  }
+  #logo {
+    background-image: url("logo.png") no-repeat;
+    background-color: #222f3e;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+
+  #logo img {
+    width: 100px;
+  }
+
+  #logo2 {
+    background-image: url("logo.png") no-repeat;
+    background-color: #222f3e;
+    text-align: center;
+  }
+
+  #logo2 img {
+    width: 100px;
+    text-align: center;
+    display: flexbox;
+    align-items: center;
+    text-align: center;
+  }
+
+  .menu {
+    background-color: #354758;
+  }
+
+  .back {
+    background-color: #354758;
+  }
+
+  .menu li {
+    color: white;
+    display: inline;
+    text-decoration: none;
+    padding: 2px;
+    padding-left: 10px;
+  }
+
+  .sfondobox {
+    background: white;
+    display: inline;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+  }
+
+  #arancione img {
+    width: 100%;
+    height: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .immagine2 {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+  }
+
+  .sfondoverde {
+    background: repeat url("img/bg-image.png");
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    margin-bottom: 5px;
+    text-align: center !important;
+    color: white;
+  }
+
+  .sfondoverdeh1 {
+    padding-top: 60px;
+    text-align: center;
+  }
+
+  .sfondoverdep {
+    text-align: center;
+  }
+
+  .back {
+    color: white;
+    padding-bottom: 11px;
+  }
+
+  .giochi {
+    text-decoration: none;
+  }
+
+  .accessori {
+    text-decoration: none;
+  }
+
+  .logo3 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .foto4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: white;
+  }
+
+  .shop {
+    text-align: left !important;
+    text-decoration: none;
+    padding-bottom: 1px;
+    padding-left: 20px;
+    padding-top: 5px;
+  }
+
+  .shop a {
+    text-decoration: none;
+  }
+
+  .card1 {
+    background: white;
+    display: flex;
+
+  }
+
+  .card2 {
+    background: white;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .card3 {
+    background: white;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .card4 {
+    background: white;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .categorie {
+    display: flex;
+    justify-content: colum;
+  }
+  .card {
+    background: #f56600;
+    text-align: center;
+  }
+
+  .card h1 {
+    color: white;
+    font-size: 15px;
+    padding-top: 10px;
+  }
+
+  .foto {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .foto1 {
+    background: white;
+    display: inline;
+  }
+
+  .img-container {
+    text-align: center;
+    width: 100%;
+  }
+ .sfondobox {
+    background: white;
+    display: inline;
+  }
+  .block {
+    width: 50px;
+    height: 50px;
+  }
+ .bloccosfondo {
+    background: white;
+    box-sizing:content-box !important;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 260px;
+    height: 320px;
+  }
+  .bloccosfondo p {
+    padding-left: 15px;
+    font-size: 10px;
+  }
+  .bloccosfondo a {
+    text-decoration: none;
+    padding-left: 15px;
+  }
+  .bloccosfondo h1 {
+    font-size: 15px;
+    padding-bottom: 10px;
+  }
+  .bloccosfondo1 {
+    background: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    width: 50px;
+    height: 50px;
+  }
+
+  .linea {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between
+  }
+
+  .img {
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    width: 100px;
+    height: 80px;
+  }
+  .sfondobox4{
+    background: white;
+  }
